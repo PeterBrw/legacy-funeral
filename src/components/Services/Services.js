@@ -26,15 +26,33 @@ const Services = () => {
 					<h1 style={{ fontFamily: 'Roboto', fontSize: 30, color: '#333333' }}>
 						Magnolia
 					</h1>
-					<a style={{ fontFamily: 'Roboto', fontSize: 30, color: '#71ABD5' }}>
+					<a
+						style={{
+							fontFamily: 'Roboto',
+							fontSize: 30,
+							color: '#71ABD5',
+							textDecoration: 'none',
+						}}
+						href="https://www.magnolia.ro/"
+						target="_blank"
+					>
 						www.magnolia.ro
 					</a>
 				</Row>
 				<Row className="mb-5">
-					<h1 style={{ fontFamily: 'Roboto', fontSize: 30, color: '#333333' }}>
+					<a style={{ fontFamily: 'Roboto', fontSize: 30, color: '#333333' }}>
 						Holland Flower{' '}
-					</h1>
-					<a style={{ fontFamily: 'Roboto', fontSize: 30, color: '#71ABD5' }}>
+					</a>
+					<a
+						style={{
+							fontFamily: 'Roboto',
+							fontSize: 30,
+							color: '#71ABD5',
+							textDecoration: 'none',
+						}}
+						href="https://hollandflower.ro/"
+						target="_blank"
+					>
 						www.hollandflower.ro{' '}
 					</a>
 				</Row>
@@ -42,7 +60,16 @@ const Services = () => {
 					<h1 style={{ fontFamily: 'Roboto', fontSize: 30, color: '#333333' }}>
 						Betty Flowers{' '}
 					</h1>
-					<a style={{ fontFamily: 'Roboto', fontSize: 30, color: '#71ABD5' }}>
+					<a
+						style={{
+							fontFamily: 'Roboto',
+							fontSize: 30,
+							color: '#71ABD5',
+							textDecoration: 'none',
+						}}
+						href="https://www.bettyflowers.ro"
+						target="_blank"
+					>
 						www.bettyflowers.ro{' '}
 					</a>
 				</Row>

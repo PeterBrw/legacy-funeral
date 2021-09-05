@@ -19,12 +19,12 @@ const Coffins = () => {
 						<Card style={{ width: '14rem' }}>
 							<Card.Img
 								variant="top"
-								src="	https://gomagcdn.ro/domains/evafunerare.ro/files/product/medium/sicriu-black-14-249571.jpg"
+								src="https://gomagcdn.ro/domains/evafunerare.ro/files/product/medium/sicriu-black-14-249571.jpg"
 							/>
 							<Card.Body>
 								<Card.Title>Sicriu Black</Card.Title>
 								<Card.Text>1.100,00 Lei</Card.Text>
-								<Button variant="primary">Cumpara</Button>
+								<Button variant="secondary">Cumpara</Button>
 							</Card.Body>
 						</Card>
 					</Col>
@@ -34,12 +34,12 @@ const Coffins = () => {
 						<Card style={{ width: '14rem' }}>
 							<Card.Img
 								variant="top"
-								src="	https://gomagcdn.ro/domains/evafunerare.ro/files/product/medium/sicriu-lena-22-716454.jpg"
+								src="https://gomagcdn.ro/domains/evafunerare.ro/files/product/medium/sicriu-lena-22-716454.jpg"
 							/>
 							<Card.Body>
 								<Card.Title>Sicriu Lena</Card.Title>
 								<Card.Text>1.350,00 Lei</Card.Text>
-								<Button variant="primary">Cumpara</Button>
+								<Button variant="secondary">Cumpara</Button>
 							</Card.Body>
 						</Card>
 					</Col>
@@ -50,12 +50,12 @@ const Coffins = () => {
 							<Card style={{ width: '14rem' }}>
 								<Card.Img
 									variant="top"
-									src="	https://gomagcdn.ro/domains/evafunerare.ro/files/product/medium/sicriu-padina-23-455431.jpg"
+									src="https://gomagcdn.ro/domains/evafunerare.ro/files/product/medium/sicriu-padina-23-455431.jpg"
 								/>
 								<Card.Body>
 									<Card.Title>Sicriu Polonia</Card.Title>
 									<Card.Text>1.500,00 Lei</Card.Text>
-									<Button variant="primary">Cumpara</Button>
+									<Button variant="secondary">Cumpara</Button>
 								</Card.Body>
 							</Card>
 						</Col>
@@ -66,12 +66,12 @@ const Coffins = () => {
 						<Card style={{ width: '14rem' }}>
 							<Card.Img
 								variant="top"
-								src="	https://gomagcdn.ro/domains/evafunerare.ro/files/product/medium/sicriu-ant-183-598450.jpg"
+								src="https://gomagcdn.ro/domains/evafunerare.ro/files/product/medium/sicriu-ant-183-598450.jpg"
 							/>
 							<Card.Body>
 								<Card.Title>Sicriu ANT</Card.Title>
 								<Card.Text>1.200,00 Lei</Card.Text>
-								<Button variant="primary">Cumpara</Button>
+								<Button variant="secondary">Cumpara</Button>
 							</Card.Body>
 						</Card>
 					</Col>
@@ -88,7 +88,7 @@ const Coffins = () => {
 							<Card.Body>
 								<Card.Title>Sicriu Lorena</Card.Title>
 								<Card.Text>1.430,00 Lei</Card.Text>
-								<Button variant="primary">Cumpara</Button>
+								<Button variant="secondary">Cumpara</Button>
 							</Card.Body>
 						</Card>
 					</Col>
@@ -103,7 +103,7 @@ const Coffins = () => {
 							<Card.Body>
 								<Card.Title>Sicriu Padina</Card.Title>
 								<Card.Text>1.500,00 Lei</Card.Text>
-								<Button variant="primary">Cumpara</Button>
+								<Button variant="secondary">Cumpara</Button>
 							</Card.Body>
 						</Card>
 					</Col>
@@ -120,7 +120,7 @@ const Coffins = () => {
 								<Card.Body>
 									<Card.Title>Sicriu Chip</Card.Title>
 									<Card.Text>1.390,00 Lei</Card.Text>
-									<Button variant="primary">Cumpara</Button>
+									<Button variant="secondary">Cumpara</Button>
 								</Card.Body>
 							</Card>
 						</Col>
@@ -136,7 +136,7 @@ const Coffins = () => {
 							<Card.Body>
 								<Card.Title>Sicriu AFI</Card.Title>
 								<Card.Text>1.200,00 Lei</Card.Text>
-								<Button variant="primary">Cumpara</Button>
+								<Button variant="secondary">Cumpara</Button>
 							</Card.Body>
 						</Card>
 					</Col>
@@ -153,7 +153,7 @@ const Coffins = () => {
 							<Card.Body>
 								<Card.Title>Sicriu Sicilia</Card.Title>
 								<Card.Text>1.550,00 Lei</Card.Text>
-								<Button variant="primary">Cumpara</Button>
+								<Button variant="secondary">Cumpara</Button>
 							</Card.Body>
 						</Card>
 					</Col>
@@ -168,7 +168,7 @@ const Coffins = () => {
 							<Card.Body>
 								<Card.Title>Sicriu Eden</Card.Title>
 								<Card.Text>1.350,00 Lei</Card.Text>
-								<Button variant="primary">Cumpara</Button>
+								<Button variant="secondary">Cumpara</Button>
 							</Card.Body>
 						</Card>
 					</Col>
@@ -184,7 +184,7 @@ const Coffins = () => {
 								<Card.Body>
 									<Card.Title>Sicriu Model</Card.Title>
 									<Card.Text>1.000,00 Lei</Card.Text>
-									<Button variant="primary">Cumpara</Button>
+									<Button variant="secondary">Cumpara</Button>
 								</Card.Body>
 							</Card>
 						</Col>
@@ -200,7 +200,7 @@ const Coffins = () => {
 							<Card.Body>
 								<Card.Title>Sicriu Milano</Card.Title>
 								<Card.Text>1.200,00 Lei</Card.Text>
-								<Button variant="primary">Cumpara</Button>
+								<Button variant="secondary">Cumpara</Button>
 							</Card.Body>
 						</Card>
 					</Col>
