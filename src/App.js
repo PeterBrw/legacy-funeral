@@ -4,11 +4,12 @@ import { BrowserRouter as Router, Switch, Route } from 'react-router-dom'
 import { Navbar, Container, Nav, NavDropdown } from 'react-bootstrap'
 
 import Home from './components/Home'
-import Locations from './components/Locations/Locations'
-import Team from './components/Team/Team'
-import Obituaries from './components/Obituaries/Obituaries'
-import Services from './components/Services/Services'
-import Contact from './components/Contact/Contact'
+import Locations from './components/Locations/'
+import Team from './components/Team/'
+import Obituaries from './components/Obituaries/'
+import Services from './components/Services/'
+import Contact from './components/Contact/'
+import Coffins from './components/Coffins'
 
 import { LinkContainer } from 'react-router-bootstrap'
 
@@ -42,6 +43,9 @@ export default function App() {
 								<LinkContainer to="/services">
 									<NavDropdown.Item>TRIMITE FLORI</NavDropdown.Item>
 								</LinkContainer>
+								<LinkContainer to="/coffins">
+									<NavDropdown.Item>SICRIE</NavDropdown.Item>
+								</LinkContainer>
 							</NavDropdown>
 							<LinkContainer to="/contact">
 								<Nav.Link>Contact</Nav.Link>
@@ -68,6 +72,9 @@ export default function App() {
 					</Route>
 					<Route path="/contact">
 						<Contact />
+					</Route>
+					<Route path="/coffins">
+						<Coffins />
 					</Route>
 					<Route path="/">
 						<Home />
